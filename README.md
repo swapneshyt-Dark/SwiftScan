@@ -54,5 +54,5 @@ pip install argparse
 ```
 # **Installing Fast Port Scanner**(Linux)
 ```
-[git clone https://github.com/swapneshyt-Dark/SwiftScan.git
+git clone https://github.com/swapneshyt-Dark/SwiftScan.git
 ```
